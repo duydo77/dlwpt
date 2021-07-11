@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "D:\\Setup\\Miniconda\\envs\\dlwpt\\python.exe",
+    "jupyter.jupyterServerType": "local",
+    "python.analysis.extraPaths": [
+        "./mycode",
+        "./lungFighter",
+        "./dlwpt-code"
+    ]
+}
